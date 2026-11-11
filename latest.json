@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "downloadURL": "https://cloud.korsign.xyz/dl/i4FdlXnHFoUxaA",
+  "sha256" : "3d6dd716e5dba97b1b50562f2d4611311c967f7389a961cd03baf6956a37fcc7",
+  "signature" : "6x9qMAhfXIPhDbZRYJsVocjlfEJ7YYYC8cQ5iUOLVOTsTzoN35TtmnRWtyzp4/KbA8XpOneo8pmdGI/+oYthCw==",
+  "notes": "What changed in this build.",
+  "minOS": "27.0"
+}
